@@ -4,10 +4,38 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeswarpotturi" alt="eeswarpotturi" /></a> </p>
 
 - 🔭 I’m currently working on **Student Academics Management System**
-
 - 🌱 I’m currently learning **React.js, Fast API**
-
 - 📫 How to reach me **pothurisubbaraju2004@gmail.com**
+
+---
+
+### 💼 Internship Experience
+- **Software Trainee Intern** at *HTC Global Services*, Chennai *(Apr 2025 – Jul 2025)*  
+  Selected through an on-campus placement drive and completed a comprehensive 4-month onsite internship.  
+  - Built real-time applications across **full-stack development, databases, cloud computing, and data visualization**.  
+  - **Tech Stack:** Python Full-Stack (FastAPI, React.js, SQLAlchemy, JWT, SMTP), MySQL, AWS, Terraform, Power BI.
+
+---
+
+### 🚀 Projects
+- **Student Academics Management System** *(Since Jun 2025)* – Automates student, faculty, admin, course, attendance, and grading workflows. Built with **FastAPI backend** and **React.js frontend**, role-based access, JWT authentication, and MySQL database.  
+- **QuickCab – Smart Ride Scheduler** *(Dec 2024)* – Python-based ride booking system with user registration, secure login, and booking history review.  
+- **MyCampusWeb – Student Dashboard** *(Sep 2024)* – Responsive school portal with student login, online admission, and fee detail viewing.
+
+---
+
+### 🎓 Education
+- **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Jul 2025)* – CGPA: 7.12  
+- **Intermediate (MPC)**, Sri Chaitanya Junior College *(2019 – 2021)* – 83.7%  
+- **Matriculation**, Ushodaya High School *(2018 – 2019)* – CGPA: 9.3  
+
+---
+
+### 🏆 Achievements & Certifications
+- Selected for **Onsite Internship at HTC Global Services** through on-campus placement at LPU *(Jan 2025)*.  
+- Certifications: *Advanced HTML (LinkedIn Learning)*, *Programming with Python (LinkedIn Learning)*, *SQL Programming (LinkedIn Learning)*, *DSA (Coding Spoon)*, *Data Visualization with Tableau (Coursera)*.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
