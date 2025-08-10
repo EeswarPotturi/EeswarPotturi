@@ -24,10 +24,8 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-- Selected for **Onsite Internship at HTC Global Services** through on-campus placement at LPU *(Jan 2025)*.  
-- Certifications: *Advanced HTML (LinkedIn Learning)*, *Programming with Python (LinkedIn Learning)*, *SQL Programming (LinkedIn Learning)*, *DSA (Coding Spoon)*, *Data Visualization with Tableau (Coursera)*.
-
+### 🏆 Achievements
+- Selected for **Onsite Internship at HTC Global Services** through on-campus placement at LPU *(Jan 2025)*.
 ---
 
 <h3 align="left">Connect with me:</h3>
