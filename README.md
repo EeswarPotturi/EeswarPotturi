@@ -17,13 +17,6 @@
 
 ---
 
-### 🚀 Projects
-- **Student Academics Management System** *(Since Jun 2025)* – Automates student, faculty, admin, course, attendance, and grading workflows. Built with **FastAPI backend** and **React.js frontend**, role-based access, JWT authentication, and MySQL database.  
-- **QuickCab – Smart Ride Scheduler** *(Dec 2024)* – Python-based ride booking system with user registration, secure login, and booking history review.  
-- **MyCampusWeb – Student Dashboard** *(Sep 2024)* – Responsive school portal with student login, online admission, and fee detail viewing.
-
----
-
 ### 🎓 Education
 - **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Jul 2025)* – CGPA: 7.12  
 - **Intermediate (MPC)**, Sri Chaitanya Junior College *(2019 – 2021)* – 83.7%  
