@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeswarpotturi" alt="eeswarpotturi" /></a> </p>
 
-- 🔭 I’m currently working on **Student Academics Management System**
+- 🔭 I’m currently working on **Student Academics Management System Project**
 - 🌱 I’m currently learning **React.js, Fast API**
 - 📫 How to reach me **pothurisubbaraju2004@gmail.com**
 
