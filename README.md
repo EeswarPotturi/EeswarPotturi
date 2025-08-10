@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Potturi Eeswara Venkata Sai Subbaraju</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeswarpotturi&label=Profile%20views&color=0e75b6&style=flat" alt="eeswarpotturi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeswarpotturi" alt="eeswarpotturi" /></a> </p>
-
 - 🔭 I’m currently working on **Student Academics Management System Project**
 - 🌱 I’m currently learning **React.js, Fast API**
 - 📫 How to reach me **pothurisubbaraju2004@gmail.com**
