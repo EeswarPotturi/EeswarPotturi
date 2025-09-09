@@ -8,7 +8,7 @@
 ---
 
 ### 💼 Internship Experience
-- **Software Trainee Intern** at *HTC Global Services*, Chennai *(Apr 2025 – Jul 2025)*  
+- **Software Trainee Intern** at *HTC Global Services*, Chennai *(Apr 2025 – Aug 2025)*  
   Selected through an on-campus placement drive and completed a comprehensive 4-month onsite internship.  
   - Built real-time applications across **full-stack development, databases, cloud computing, and data visualization**.  
   - **Tech Stack:** Python Full-Stack (FastAPI, React.js, SQLAlchemy, JWT, SMTP), MySQL, AWS, Terraform, Power BI.
@@ -16,7 +16,7 @@
 ---
 
 ### 🎓 Education
-- **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Jul 2025)* – CGPA: 7.12  
+- **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Jul 2025)* – CGPA: 7.11  
 - **Intermediate (MPC)**, Sri Chaitanya Junior College *(2019 – 2021)* – 83.7%  
 - **Matriculation**, Ushodaya High School *(2018 – 2019)* – CGPA: 9.3  
 
