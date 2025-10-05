@@ -16,7 +16,7 @@
 ---
 
 ### 🎓 Education
-- **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Jul 2025)* – CGPA: 7.11  
+- **B.Tech in Computer Science and Engineering**, Lovely Professional University *(Aug 2021 – Sep 2025)* – CGPA: 7.11  
 - **Intermediate (MPC)**, Sri Chaitanya Junior College *(2019 – 2021)* – 83.7%  
 - **Matriculation**, Ushodaya High School *(2018 – 2019)* – CGPA: 9.3  
 
